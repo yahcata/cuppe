@@ -1,0 +1,239 @@
+body{margin: 0px;}
+
+*
+{ margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: Retrokia caps, regular;
+}
+
+#seccion1 {max-width:100%;height:auto;}
+#seccion01
+{position: relative;
+width: 100%;
+min-height: 100vh;
+padding: 100px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+background: #fff;}
+
+header { position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+padding: 20px 160px;
+display: flex;
+justify-content: space-between;
+align-items: center;}
+
+header ul li :hover {color: #3f0c02; 
+    background-color: white;
+   border-radius: 35px;
+padding: 5px;}
+
+
+header img {position: relative;
+max-width: 160px;}
+
+header ul {position: relative;
+display: flex;}
+
+header ul li { list-style: none;}
+
+header ul li a { display: inline-block;
+color: #fff;
+font-weight: 400;
+margin-left: 40px;
+text-decoration: none;}
+
+.content .textBox {position: relative;
+max-width: 600px;}
+
+.content .textBox h2 {color: #fff;
+font-size: 3.6em;
+line-height: 1.5em;
+font-weight: 500;}
+
+p {font-family: helvetica regular;
+color: #fff;
+font-size: 1.5em;
+line-height: 1.4em;
+font-weight: 30;}
+
+#blanco {color: #fff;}
+/*#titulo{ font-family: retrokia caps; 
+    width: 600px;
+    margin-left: 80px;
+    margin-top: 150px; font-size: 45px;}
+
+div p{width: 450px;
+    margin-left: 80px;
+    margin-top: 0px;
+    font-family: helvetica;} 
+
+
+header{ width: 100%;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;}
+
+header img {float: left;
+    margin-left: 80px;
+    margin-right: 390px;
+    margin-top: 15px;}
+
+header nav {margin-right: 80px;
+    float: left;
+    padding-top: 35px;}
+
+header nav a{color: white;
+    padding: 10px 10px 10px 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: retrokia caps; }
+
+header nav a:hover {color: #3f0c02; 
+    background-color: white;
+    border-radius: 35px;} */
+
+    #seccion2 {max-width:100%;height:auto;}
+    #seccion02
+    {position: relative;
+    width: 100%;
+    min-height: 100vh;
+    padding: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;}
+
+   .acerca .textBox h2 {color: #fff;
+        font-size: 3.6em;
+        line-height: 1.5em;
+        font-weight: 500;}
+
+    .acerca .textBox {position: relative;
+      max-width: 600px;
+      margin-left: 980px;
+      text-align: right;}
+            
+            p {font-family: helvetica regular;
+            color: #fff;
+            font-size: 1.5em;
+            line-height: 1.4em;
+            font-weight: 30;}
+
+     #seccion3 {max-width:100%;height:auto;}
+     #seccion03
+     {position: relative;
+        width: 100%;
+        min-height: 100vh;
+        padding: 100px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background: #fff;}
+
+        
+        .contenido
+        {margin: 3px;}
+
+        .caja
+        {display: table-cell;
+        padding: 90px;
+        margin: 0px 25px;
+        align-content: center;
+        text-align: center;
+        color: #3f0c02;
+        padding-top: 750px;}
+
+        #colorrubio .caja:nth-child(1)
+        h1 { margin-bottom: 30px;} p {color:#3f0c02}
+       
+
+        #colorrubio .caja:nth-child(2) 
+        h1 { margin-bottom: 30px;} p {color:#3f0c02}
+
+        #colorrubio .caja:nth-child(3) 
+        h1 { margin-bottom: 30px;} p {color:#3f0c02}
+
+.titulo 
+    {color: #3f0c02;
+    font-size: 2.5em;
+    line-height: 1.4em;
+    font-weight: 30;
+    margin-top: 80px;}
+
+      #seccion4 {max-width:100%;height:auto;}
+      #seccion04
+      {position: relative;
+        width: 100%;
+        min-height: 100vh;
+        padding: 100px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background: scroll fixed inherit;}
+
+        .productostazas
+        {margin: 3px;}
+
+        .caja
+        {display: table-cell;
+        align-content: center;
+        text-align: center;
+        color: #3f0c02;
+        padding-top: 750px;}
+
+        .product
+        {color: #3f0c02;
+            font-size: 2.5em;
+            line-height: 1.4em;
+            font-weight: 30;
+            margin-top: 80px;
+        text-align: center;}
+
+
+       #seccion5 {max-width:100%;height:auto;}
+       #seccion05
+       {position: relative;
+        width: 100%;
+        min-height: 100vh;
+        padding: 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background: scroll fixed inherit;}
+
+        .productostazas
+        {margin: 3px;}
+
+        .caja
+        {display: table-cell;
+        align-content: center;
+        text-align: center;
+        color: #3f0c02;
+        padding-top: 750px;}
+
+        .product
+        {color: #3f0c02;
+            font-size: 2.5em;
+            line-height: 1.4em;
+            font-weight: 30;
+            margin-top: 80px;
+        text-align: center;}
+
+       #seccion6 {max-width:100%;height:auto;}
+       #seccion06
+       {position: relative;
+        width: 100%;
+        min-height: 100vh;
+        padding: 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background: scroll fixed inherit;}
+ 
+
